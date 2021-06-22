@@ -1,0 +1,16 @@
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Series/bin/Debug/net5.0/Series
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Series/bin/Debug/net5.0/Series.deps.json
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Series/bin/Debug/net5.0/Series.runtimeconfig.json
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Series/bin/Debug/net5.0/Series.runtimeconfig.dev.json
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Series/bin/Debug/net5.0/Series.dll
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Series/bin/Debug/net5.0/ref/Series.dll
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Series/bin/Debug/net5.0/Series.pdb
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Series/obj/Debug/net5.0/Series.csprojAssemblyReference.cache
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Series/obj/Debug/net5.0/Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Series/obj/Debug/net5.0/Series.AssemblyInfoInputs.cache
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Series/obj/Debug/net5.0/Series.AssemblyInfo.cs
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Series/obj/Debug/net5.0/Series.csproj.CoreCompileInputs.cache
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Series/obj/Debug/net5.0/Series.dll
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Series/obj/Debug/net5.0/ref/Series.dll
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Series/obj/Debug/net5.0/Series.pdb
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Series/obj/Debug/net5.0/Series.genruntimeconfig.cache
